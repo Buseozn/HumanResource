@@ -1,0 +1,60 @@
+﻿<Properties StartupConfiguration="{27148D1F-6120-4D68-BCEC-0D4351F4AF68}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.WebAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Core/DataAccess/EntitiyFramework/EfEntityRepositoryBase.cs">
+    <Files>
+      <File FileName="Entity/Concrete/Project.cs" />
+      <File FileName="Entity/Concrete/User.cs" />
+      <File FileName="Business/Abstract/IProjectService.cs" />
+      <File FileName="Business/Abstract/IUserService.cs" />
+      <File FileName="Business/Concrete/ProjectManager.cs" />
+      <File FileName="Business/Concrete/UserManager.cs" />
+      <File FileName="DataAccess/Abstract/IProjectDal.cs" />
+      <File FileName="DataAccess/Abstract/IUserDal.cs" />
+      <File FileName="Business/Contants/Messages.cs" />
+      <File FileName="Business/DependencyResolvers/Autofac/AutofacBusinessModule.cs" />
+      <File FileName="DataAccess/Concrete/EntityFramework/EfProjectDal.cs" Line="14" Column="1" />
+      <File FileName="DataAccess/Concrete/EntityFramework/EfUserDal.cs" Line="10" Column="28" />
+      <File FileName="WebAPI/Controllers/ProjectsController.cs" />
+      <File FileName="Core/DataAccess/EntitiyFramework/EfEntityRepositoryBase.cs" Line="44" Column="1" />
+      <File FileName="Core/DataAccess/IEntityRepository.cs" Line="1" Column="1" />
+      <File FileName="DataAccess/Concrete/EntityFramework/Context/HumanResourceContext.cs" Line="20" Column="1" />
+      <File FileName="Core/Entities/IEntity.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HUMANRESOURCE" expanded="True">
+            <Node name="Core" expanded="True">
+              <Node name="DataAccess" expanded="True">
+                <Node name="EntitiyFramework" expanded="True">
+                  <Node name="EfEntityRepositoryBase.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Entities" expanded="True" />
+              <Node name="Utilities" expanded="True" />
+            </Node>
+            <Node name="DataAccess" expanded="True">
+              <Node name="Concrete" expanded="True">
+                <Node name="EntityFramework" expanded="True">
+                  <Node name="Context" expanded="True" />
+                </Node>
+              </Node>
+            </Node>
+            <Node name="Entities" expanded="True">
+              <Node name="Concrete" expanded="True" />
+            </Node>
+            <Node name="WebAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
